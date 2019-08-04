@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/shop_api/shop_api.iml" filepath="$PROJECT_DIR$/shop_api/shop_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop_api/shop_api_member/shop_api_member.iml" filepath="$PROJECT_DIR$/shop_api/shop_api_member/shop_api_member.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop_api/shop_api_order/shop_api_order.iml" filepath="$PROJECT_DIR$/shop_api/shop_api_order/shop_api_order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop_common/shop_common.iml" filepath="$PROJECT_DIR$/shop_common/shop_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop_eurekaserver/shop_eurekaserver.iml" filepath="$PROJECT_DIR$/shop_eurekaserver/shop_eurekaserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop_member/shop_member.iml" filepath="$PROJECT_DIR$/shop_member/shop_member.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop_order/shop_order.iml" filepath="$PROJECT_DIR$/shop_order/shop_order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop_parrent.iml" filepath="$PROJECT_DIR$/shop_parrent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop_zuul/shop_zuul.iml" filepath="$PROJECT_DIR$/shop_zuul/shop_zuul.iml" />
+    </modules>
+  </component>
+</project>
